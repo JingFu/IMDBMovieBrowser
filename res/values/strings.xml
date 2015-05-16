@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FreshMovieBrowser</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_bar_browser">browse</string>
+    <string name="action_bar_settings">Settings</string>
+    <string name="action_bar_legal">Legal Notices</string>
+
+</resources>

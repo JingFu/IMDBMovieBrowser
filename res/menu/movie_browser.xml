@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- represents the actions available in the action bar -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item
+        android:id="@+id/action_browser"
+        android:icon="@drawable/browser2"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_bar_browser"/>
+	
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:showAsAction="never"
+        android:title="@string/action_bar_settings"/>
+    
+    <item
+        android:id="@+id/action_legal"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_bar_legal"/>
+
+</menu>
